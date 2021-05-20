@@ -1,0 +1,10 @@
+{
+  "version": 2,
+  "dgSpecHash": "SxnimTXC4+NrHk3MSOHLhXNRBdBltg2KIVm5EyDciFUlXC6+OXUSknBL9YOqMdrdQM68+WcVGY/5JQ0E8J1asw==",
+  "success": true,
+  "projectFilePath": "/home/epita/Downloads/WizardLore/WizardLore/WizardLore.csproj",
+  "expectedPackageFiles": [
+    "/home/epita/.nuget/packages/microsoft.aspnetcore.app.ref/3.1.8/microsoft.aspnetcore.app.ref.3.1.8.nupkg.sha512"
+  ],
+  "logs": []
+}
