@@ -35,7 +35,7 @@ namespace WizardLore
         /// <param name="team"> The team of the current player, used for the cursor's color </param>
         public static void PlaceCursor(Board board, Position pos, Team team)
         {
-            /*
+            
             int oldLeft = Console.CursorLeft;
             int oldTop = Console.CursorTop;
             
@@ -57,7 +57,7 @@ namespace WizardLore
 
             Console.CursorLeft = oldLeft;
             Console.CursorTop = oldTop;
-            */
+            
         }
 
         /*
@@ -72,7 +72,7 @@ namespace WizardLore
         /// <param name="board"> The game board </param>
         private static void PrintTop(Board board)
         {
-            /*
+            
             int len = board.GetDimension();
 
             for (int i = 0; i < len; i++)
@@ -103,7 +103,7 @@ namespace WizardLore
 
                 Console.WriteLine();
             }
-            */
+            
         }
         
         /// <summary>
@@ -112,7 +112,7 @@ namespace WizardLore
         /// <param name="board"> The game board </param>
         private static void PrintMiddle(Board board)
         {
-            /*
+            
             int len = board.GetDimension();
             
             for (int i = 0; i < len; i++)
@@ -160,7 +160,7 @@ namespace WizardLore
                 }
                 Console.WriteLine();
             }
-            */
+            
         }
         
         /// <summary>
@@ -169,7 +169,7 @@ namespace WizardLore
         /// <param name="board"> The game board </param>
         private static void PrintBottom(Board board)
         {
-            /*
+            
             int len = board.GetDimension();
 
             for (int i = len - 2; i >= 0; i--)
@@ -199,7 +199,7 @@ namespace WizardLore
 
                 Console.WriteLine();
             }
-            */
+            
         }
 
         /// <summary>
@@ -211,7 +211,7 @@ namespace WizardLore
         /// <param name="col"> The column number in the grid </param>
         private static Hexagon GetEntity(Board board, int line, int col)
         {
-            /*
+            
             int dim = board.GetDimension();
             Position pos = new Position(0,0,0);
             Position unitX = new Position(1,0,0);
@@ -230,7 +230,7 @@ namespace WizardLore
                 pos += new Position(0, (l - line) / 2, 0);
 
             return board[pos];
-            */
+            
         }
 
         /// <summary>
@@ -239,7 +239,7 @@ namespace WizardLore
         /// <param name="obs"> The obstacle being converted </param>
         private static ConsoleColor GetObstacleColor(Obstacle obs)
         {
-            /*
+            
             switch (obs)
             {
                 case Obstacle.MOUNTAIN:
@@ -251,7 +251,7 @@ namespace WizardLore
                 default:
                     return ConsoleColor.Black;
             }
-            */
+            
         }
 
         /// <summary>
@@ -260,14 +260,14 @@ namespace WizardLore
         /// <param name="unit"> The unit being converted </param>
         private static ConsoleColor GetTeamColor(Unit unit)
         {
-            /*
+            
             if (unit == null)
                 return ConsoleColor.White;
             
             if (unit.Team == Team.PLAYER1)
                 return ConsoleColor.Red;
             return ConsoleColor.Blue;
-            */
+            
         }
 
         /// <summary>

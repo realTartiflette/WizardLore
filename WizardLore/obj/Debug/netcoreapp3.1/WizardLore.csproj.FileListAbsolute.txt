@@ -1,0 +1,13 @@
+C:\Users\thoma\WizardLore\WizardLore\bin\Debug\netcoreapp3.1\WizardLore.exe
+C:\Users\thoma\WizardLore\WizardLore\bin\Debug\netcoreapp3.1\WizardLore.deps.json
+C:\Users\thoma\WizardLore\WizardLore\bin\Debug\netcoreapp3.1\WizardLore.runtimeconfig.json
+C:\Users\thoma\WizardLore\WizardLore\bin\Debug\netcoreapp3.1\WizardLore.runtimeconfig.dev.json
+C:\Users\thoma\WizardLore\WizardLore\bin\Debug\netcoreapp3.1\WizardLore.dll
+C:\Users\thoma\WizardLore\WizardLore\bin\Debug\netcoreapp3.1\WizardLore.pdb
+C:\Users\thoma\WizardLore\WizardLore\obj\Debug\netcoreapp3.1\WizardLore.csprojAssemblyReference.cache
+C:\Users\thoma\WizardLore\WizardLore\obj\Debug\netcoreapp3.1\WizardLore.AssemblyInfoInputs.cache
+C:\Users\thoma\WizardLore\WizardLore\obj\Debug\netcoreapp3.1\WizardLore.AssemblyInfo.cs
+C:\Users\thoma\WizardLore\WizardLore\obj\Debug\netcoreapp3.1\WizardLore.csproj.CoreCompileInputs.cache
+C:\Users\thoma\WizardLore\WizardLore\obj\Debug\netcoreapp3.1\WizardLore.dll
+C:\Users\thoma\WizardLore\WizardLore\obj\Debug\netcoreapp3.1\WizardLore.pdb
+C:\Users\thoma\WizardLore\WizardLore\obj\Debug\netcoreapp3.1\WizardLore.genruntimeconfig.cache
